@@ -6,6 +6,8 @@ This project is a creative fundraising platform that leverages blockchain techno
 
 ![Dogs Fundraiser Screenshot](Pictures/Dogs%20Fundraiser.png)
 
+![Poor Fundraiser Screenshot](Pictures/Poor%20Fundraiser.png)
+
 ## Starting Instructions
 
 Run the development server:
