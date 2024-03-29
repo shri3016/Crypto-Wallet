@@ -1,4 +1,4 @@
-## Web3.0 Fundraiser Project
+## The Saviour - Web3.0 Fundraiser Project
 
 This project is a creative fundraising platform that leverages blockchain technology, designed to make raising funds transparent and easy, with a user-friendly interface that combines modern web design and the security of cryptocurrency transactions.
 
